@@ -1,0 +1,14 @@
+[
+    {
+        "timestamp": "2025-04-05 23:39:47",
+        "heart_rate": 72,
+        "blood_pressure": "120/80",
+        "status": "Normal"
+    },
+    {
+        "timestamp": "2025-04-05 23:42:42",
+        "heart_rate": 72,
+        "blood_pressure": "120/80",
+        "status": "Normal"
+    }
+]
